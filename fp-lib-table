@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PogoDebug)(type KiCad)(uri ${KIPRJMOD}/PogoDebug-Lib/PogoDebug.pretty)(options "")(descr ""))
+)

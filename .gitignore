@@ -1,11 +1,16 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
+# System Files
+.DS_Store
+
 # Temporary files
 *.000
 *.bak
 *.bck
 *.kicad_pcb-bak
+*.sch-bak
+*-cache.lib
 *~
 _autosave-*
 *.tmp
